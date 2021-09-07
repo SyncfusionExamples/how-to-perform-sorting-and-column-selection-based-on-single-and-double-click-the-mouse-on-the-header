@@ -63,6 +63,8 @@ private async void HandleClickAction(MouseButtonEventArgs e)
 
 ```
 
+KB article - [How to perform Sorting and Column Selection based on single and double click the mouse on the header based on click count in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12618/how-to-perform-sorting-and-column-selection-based-on-single-and-double-click-the-mouse-on)
+
 ## Requirements to run the demo 
 
 Visual Studio 2015 and above versions.
